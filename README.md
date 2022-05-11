@@ -9,5 +9,5 @@ Code of the first assignment includes:
 
 Code of the second assignment (project_2.m file) includes:
 
-1)Least square method to calculate the Homography matrix and the inverse homography matrix of the "chess.jpg" image, using the space and image coordinates of 8 points on the chess board.
+1)Least squares method to calculate the Homography matrix and the inverse homography matrix of the "chess.jpg" image, using the space and image coordinates of 8 points on the chess board.
 2)Using the inverse homography matrix and Nearest Neighbor resampling to reconstruct the surface of the chess board, correcting the perspective deformations of the original image. The result is then save in a new image called "chess_final.jpg"
